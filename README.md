@@ -25,9 +25,8 @@ A clean, minimal, and responsive weather application built with HTML, CSS, and J
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/thakurpriyesh/weatherApp.git
     ```
-    *(Replace with your repository URL)*
 
 2.  **Navigate to the project directory:**
     ```sh
